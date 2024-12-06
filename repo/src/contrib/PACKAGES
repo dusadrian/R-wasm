@@ -1,12 +1,12 @@
 Package: DDIwR
-Version: 0.18.8
+Version: 0.18.9
 Depends: R (>= 3.5.0)
 Imports: admisc (> 0.36), base64enc, declared (> 0.24), digest, tools,
         xml2, haven, readxl, writexl
 Suggests: knitr, labelled, rmarkdown, spelling, testthat (>= 3.0.0),
         tibble
 License: GPL (>= 3)
-MD5sum: b2b01fb3d82e31529058d0635d29deff
+MD5sum: 45d8688d20f37af48a6239c094fc5ca1
 NeedsCompilation: no
 
 Package: admisc
