@@ -1,0 +1,7 @@
+Package: admisc
+Version: 0.36.1
+Depends: R (>= 3.5.0)
+Imports: methods
+Suggests: QCA (>= 3.7)
+License: GPL (>= 3)
+MD5sum: 78bc19bba39183f2f7f2300f27752888
